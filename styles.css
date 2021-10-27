@@ -1219,7 +1219,7 @@ nav :checked ~ .icon-burger .line:nth-child(2) {
     }
     
 }
-@media screen and (max-width:1600px){
+@media screen and (min-width:1600px){
     .techsnap h3{
         padding-top: 230px;
     }
